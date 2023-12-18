@@ -1,7 +1,7 @@
 public class Datatypes{
 	public static void main(String args[]){
 
-byte shoeSize = 10;
+byte shoeSize = 10;				//byte Datatype
 byte costOfPencils = 15;
 byte typesOMatterOfStates = 3;
 byte noOfFingers = 10;
@@ -20,7 +20,7 @@ costOf1LBottle = 12;
 costOfNotebook = 50;
 
 short noOfCountries = 195; 
-short noOfDaysInYear = 365;
+short noOfDaysInYear = 365;			//short Datatype
 short costOfBag = 2500;
 short costOfShirt = 3000;
 short costOfWatch = 8000;
@@ -37,7 +37,7 @@ costOfChair = 750;
 costOfDesk = 1300;
 costOfTableFan = 2880;
 
-int salaryOfFresher = 350000;
+int salaryOfFresher = 350000;			//int Datatype
 int areaOfKerala = 38863;
 int costOfIphone15 = 76990;
 int roomRent = 35000; 
@@ -55,7 +55,7 @@ costOfTV = 130000;
 costOfAC = 20000;
 costOfSpeakers = 18000;
 
-long accountNo = 1235678465778L;
+long accountNo = 1235678465778L;		//long Datatype
 long bankBalance = 234235245246l;
 long mobileNo = 9876543201l;
 long aadhaarNo = 234589671234l;
@@ -73,7 +73,7 @@ panNo = 2367458L;
 areaOfUP = 243287l;
 bankBalance = 345242624l;
 
-float costOfPen = 25.35f;
+float costOfPen = 25.35f;			//float Datatype
 float costOfEraser = 5.15f;
 float costOfScale = 10.5f;
 float costOfBook = 350.46f;
@@ -91,7 +91,7 @@ speed = 452.67f;
 marks = 89.90f;
 costOfKey = 25.8f;
 
-double bankBal = 42524622462.67;
+double bankBal = 42524622462.67;		//double Datatype
 double salaryEmployer = 346242472.54;
 double ticketCharge = 3250.60;
 double carSpeed = 400.5;
@@ -109,7 +109,7 @@ carSpeed = 43534.7;
 time = 18.4;
 ticketCharge = 5670.35;
 
-char alphabet = 'a';
+char alphabet = 'a';				//char Datatype
 char symbol = '*';
 char plus = '+';
 char minus = '-';
@@ -127,7 +127,7 @@ gender = 'F';
 number = '8';
 vowel = 'i';
 
-boolean isAllCatsWhite = false;
+boolean isAllCatsWhite = false;			//boolean Datatype
 boolean isThereClassToday = true;
 boolean is2GreaterThan4 = false;
 boolean isTodayWednesday = true;
